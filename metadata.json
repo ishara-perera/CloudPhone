@@ -1,0 +1,6 @@
+{
+  "name": "CloudPhone",
+  "description": "Browser-controlled remote cloud Android phone manager, US proxy routing with kill-switch, private US telephony, and isolated multi-profile workspaces.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
